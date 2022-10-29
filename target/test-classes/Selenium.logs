@@ -1,0 +1,7 @@
+14:02:09,110 DEBUG devpinoyLogger<strong>{1}</strong>:55 - opening webiste
+14:02:09,130 DEBUG devpinoyLogger<strong>{1}</strong>:56 - closing webiste
+14:02:18,456 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:02:18,460 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:02:18,465 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:02:18,471 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:02:18,473 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/Downloads/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
